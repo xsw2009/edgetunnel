@@ -8,5 +8,3 @@ keep_vars = true
 
 #id = ""				#KV数据库id
 
-# wrangler.toml
-name = 'sublink-worker'
